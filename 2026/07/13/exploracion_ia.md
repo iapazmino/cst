@@ -18,7 +18,7 @@ Esta es una segunda opción que me atrae por varias razones, la principal es que
 
 ## Recursos
 
-vaticinios de Musk, https://computerhoy.20minutos.es/tendencias/elon-musk-da-menos-un-ano-los-programadores-para-cambiar-profesion-para-finales-2026-ni-siquiera-habra-que-preocuparse-por-programacion_6940070_0.html
-confianza ciega de Benioff, https://www.hindustantimes.com/business/who-is-salesforce-ceo-marc-benioff-who-said-he-will-not-hire-any-more-engineers-101779084181120.html
-arrepentirse y dar marcha atrás, https://www.msn.com/en-in/technology/artificial-intelligence/after-firing-4-000-employees-salesforce-admits-confidence-in-gen-ai-is-declining-zoho-s-sridhar-vembu-weighs-in/ar-AA1T77hI
-loros estocásticos, https://en.wikipedia.org/wiki/Stochastic_parrot
+- vaticinios de Musk, https://computerhoy.20minutos.es/tendencias/elon-musk-da-menos-un-ano-los-programadores-para-cambiar-profesion-para-finales-2026-ni-siquiera-habra-que-preocuparse-por-programacion_6940070_0.html
+- confianza ciega de Benioff, https://www.hindustantimes.com/business/who-is-salesforce-ceo-marc-benioff-who-said-he-will-not-hire-any-more-engineers-101779084181120.html
+- arrepentirse y dar marcha atrás, https://www.msn.com/en-in/technology/artificial-intelligence/after-firing-4-000-employees-salesforce-admits-confidence-in-gen-ai-is-declining-zoho-s-sridhar-vembu-weighs-in/ar-AA1T77hI
+- loros estocásticos, https://en.wikipedia.org/wiki/Stochastic_parrot
