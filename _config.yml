@@ -1,0 +1,23 @@
+# Configuración del sitio
+title: "Ciencia, Tecnología y Sociedad"
+description: "Mis reflexiones en la búsqueda de la superación del determinismo"
+author: "iapazmino"
+
+# URL base (IMPORTANTE)
+url: "https://iapazmino.github.io"
+baseurl: ""  # vacío si el repo es iapazmino.github.io
+
+# Configuración de Jekyll
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+# Plugins (opcional)
+plugins:
+  - jekyll-feed
+
+# Tema (cambia esto según el tema que uses)
+# Si usas un tema de GitHub Pages, suele ser:
+# theme: minima
+# O si es un tema personalizado:
+# remote_theme: usuario/tema
