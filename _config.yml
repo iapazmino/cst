@@ -16,8 +16,5 @@ permalink: /:year/:month/:day/:title/
 plugins:
   - jekyll-feed
 
-# Tema (cambia esto según el tema que uses)
-# Si usas un tema de GitHub Pages, suele ser:
-# theme: minima
-# O si es un tema personalizado:
-# remote_theme: usuario/tema
+# Tema
+theme: minima
