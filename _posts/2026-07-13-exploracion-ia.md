@@ -5,8 +5,6 @@ date: 2026-07-13 19:00:00 -0500
 categories: tecnología
 ---
 
-# Un pedazo del mundo de la IA
-
 Si tomamos como punto de partida un modelo de inteligencia artificial podemos encontrar muchos caminos de investigación, y para mi uno paricularmente interesante es la falta de un caso de uso claro para los LLMs que poco a poco se va resolviendo por medio de la liberación del acceso al público para que este encuentre los usos, un ejemplo es ChatGPT que fue imaginado y prototipado en una hackaton.
 
 Luego, si tomamos más de un modelo al mismo tiempo empezamos a ver problemas comunes para todos como el acceso al público y la distribución que se solucionan de diversas formas mediante el aprovechamiento de las plataformas ya existentes y alianzas como la de Apple y Google que dio forma a SiriAI.
