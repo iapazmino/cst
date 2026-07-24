@@ -18,3 +18,7 @@ plugins:
 
 # Tema
 theme: minima
+
+# Estilos
+sass:
+  style: compressed
