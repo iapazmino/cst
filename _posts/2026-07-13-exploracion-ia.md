@@ -27,10 +27,10 @@ Esta es una segunda opción que me atrae por varias razones, la principal es que
 
 ## Referencias
 
-- Lenny's Newsletter. 2026. "Inside ChatGPT". https://www.lennysnewsletter.com/p/inside-chatgpt-nick-turley?utm_campaign=post&utm_medium=web.
-- University of Cincinnati. 2026. "How Every Generation Uses AI: From Boomers to Gen Z". https://www.uc.edu/news/articles/2026/01/how-every-generation-uses-ai-from-boomers-to-gen-z.html.
-- arXiv. 2026. "Sycophantic and Adulatory AI". https://ar5iv.labs.arxiv.org/html/2601.15436.
-- ComputerHoy. 2025. "Elon Musk da menos de un año a los programadores para cambiar de profesión". https://computerhoy.20minutos.es/tendencias/elon-musk-da-menos-un-ano-los-programadores-para-cambiar-profesion-para-finales-2026-ni-siquiera-habra-que-preocuparse-por-programacion_6940070_0.html.
-- Hindustan Times. 2025. "Who is Salesforce CEO Marc Benioff, who said he will not hire any more engineers". https://www.hindustantimes.com/business/who-is-salesforce-ceo-marc-benioff-who-said-he-will-not-hire-any-more-engineers-101779084181120.html.
-- MSN. 2026. "After Firing 4,000 Employees, Salesforce Admits Confidence in Gen AI is Declining". https://www.msn.com/en-in/technology/artificial-intelligence/after-firing-4-000-employees-salesforce-admits-confidence-in-gen-ai-is-declining-zoho-s-sridhar-vembu-weighs-in/ar-AA1T77hI.
-- Wikipedia. s.f. "Stochastic parrot". https://en.wikipedia.org/wiki/Stochastic_parrot.
+- [Lenny's Newsletter. 2026. "Inside ChatGPT"](https://www.lennysnewsletter.com/p/inside-chatgpt-nick-turley?utm_campaign=post&utm_medium=web)
+- [University of Cincinnati. 2026. "How Every Generation Uses AI: From Boomers to Gen Z"](https://www.uc.edu/news/articles/2026/01/how-every-generation-uses-ai-from-boomers-to-gen-z.html)
+- [arXiv. 2026. "Sycophantic and Adulatory AI"](https://ar5iv.labs.arxiv.org/html/2601.15436)
+- [ComputerHoy. 2025. "Elon Musk da menos de un año a los programadores para cambiar de profesión"](https://computerhoy.20minutos.es/tendencias/elon-musk-da-menos-un-ano-los-programadores-para-cambiar-profesion-para-finales-2026-ni-siquiera-habra-que-preocuparse-por-programacion_6940070_0.html)
+- [Hindustan Times. 2025. "Who is Salesforce CEO Marc Benioff, who said he will not hire any more engineers"](https://www.hindustantimes.com/business/who-is-salesforce-ceo-marc-benioff-who-said-he-will-not-hire-any-more-engineers-101779084181120.html)
+- [MSN. 2026. "After Firing 4,000 Employees, Salesforce Admits Confidence in Gen AI is Declining"](https://www.msn.com/en-in/technology/artificial-intelligence/after-firing-4-000-employees-salesforce-admits-confidence-in-gen-ai-is-declining-zoho-s-sridhar-vembu-weighs-in/ar-AA1T77hI)
+- [Wikipedia. s.f. "Stochastic parrot"](https://en.wikipedia.org/wiki/Stochastic_parrot)
