@@ -5,6 +5,8 @@ date: 2026-07-13 19:00:00 -0500
 categories: tecnología
 ---
 
+![Red sociotécnica de innovación IA]({{ '/assets/images/read-ia.png' | relative_url }}){:.centered}
+
 Si tomamos como punto de partida un modelo de inteligencia artificial podemos encontrar muchos caminos de investigación, y para mi uno paricularmente interesante es la falta de un caso de uso claro para los LLMs que poco a poco se va resolviendo por medio de la liberación del acceso al público para que este encuentre los usos, un ejemplo es ChatGPT que fue imaginado y prototipado en una hackaton.
 
 Luego, si tomamos más de un modelo al mismo tiempo empezamos a ver problemas comunes para todos como el acceso al público y la distribución que se solucionan de diversas formas mediante el aprovechamiento de las plataformas ya existentes y alianzas como la de Apple y Google que dio forma a SiriAI.
@@ -16,6 +18,8 @@ Aunque todos problemas muy interesantes para describir e investigar desde una pe
 Visto desde los grupos sociales que tienen relaciones de uso con los LLMs la gente joven resulta particularmente interesante ya que son quienes hacen un uso más extensivo de estos sistemas y además generan vínculos de confianza con estas tecnologías. Si bien no es el reemplazo de un terapeuta si es una herramienta de apoyo emocional que genera la sensación de escuchar y entender a la persona que la utiliza “dandole la razón” y “sin juzgar” gracias su diseño sicofante y aduladora y a la gran cantidad de datos que tiene de la misma.
 
 Aquí una primera opción para investigar desde el punto de vista de privacidad donde la red a investigar es la de ChatGPT y sus alianzas con navegadores, fabricantes de teléfonos celulares y otras alianzas comerciales.
+
+![Nodo generación de código]({{ '/assets/images/red-ia-nodo-gencode.png' | relative_url }}){:.pull-left}
 
 Luego, están los y las profesionales que empiezan a ser medidos bajo la exigencia de desarrollar “habilidades IA”, aunque nadie define cuales son, para no volverse obsoletos en el mercado laboral. Y aquí se encuentra el subgrupo de los programadores que son de los primeros en sentir los efectos de la adopción masiva en la IA ya que son el blanco de los vaticinios de quienes lucran, como Musk, y la confianza ciega de ejecutivos que temen profundamente quedarse fuera de este mundo nuevo y maravilloso, como Benioff de Salesforce, aunque luego tengan que arrepentirse y dar marcha atrás. La profesioón de programadora también es de las primeras en que el cambio de expectativas son tangibles y explícitas, por ejemplo se espera un cambio cuasi inmediato de especialista en un lenguaje de programación a "manejar" varios lenguajes de programación y frameworks de desarrollo aunque no en profundidad si no a un nivel "pragmático" que permite producir nuevas funcionalidades en tiempos record. Así mismo son también los primeros en tener a disposición los frutos que dan estos loros estocásticos como la generación de código que se vuelven tangibles en forma de IDEs como Cursor y otros artefactos como Code Rabbit que revisan el código en búsqueda de defectos producidos por personas u otros agentes antes de ser empaquetado y distribuido sus usuarios finales.
 
