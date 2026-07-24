@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un pedazo del mundo de la IA"
-date: 2026-07-23 19:00:00 -0500
+date: 2026-07-13 19:00:00 -0500
 categories: tecnología
 ---
 
